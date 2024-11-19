@@ -5,30 +5,6 @@
 
 在此之前有分享过这份知识点笔记的初稿，现在又对知识点笔记进行了一定的优化。于是有了现在的V2.0版本的面试手册。当然除了在线版还有本地文档版本
 
-> 部分内容收集整理于网络，在此也再次感谢所有内容产出者的贡献！
->
-> > **如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构资料，都可以加上[【QQ群】](https://jq.qq.com/?_wv=1027&k=oE5kCnMu)领取。祝愿每一位有追求的Java开发同胞都能进大厂拿高薪！**
-
-
-
-## QQ群
-
-> 本群由我创立，目前已将群主权限交由合作方便于进行日常管理，介意的朋友们在GitHub上看最新版就好了> 这份笔记资料是会免费提供的，特地向你们保证…毕竟还是要恰饭的嘛…
-
-祝愿每一位有追求的Java开发同胞都能进大厂拿高薪！
-
-Java架构交流QQ群：**578486082**  （备注一下GitHub，免得被认成打无良广告的）
-
-快捷加群方式：[点击此处加入群聊：java高级程序猿①](https://jq.qq.com/?_wv=1027&k=oE5kCnMu)
-
-![image](https://upload-images.jianshu.io/upload_images/24613101-931262091ba7ed2b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-> PS：
->
-> > 平常很忙，找miffy小姐姐领取就好了，免费获取的！
-
-![image](https://upload-images.jianshu.io/upload_images/24613101-4b0507ab7ef34106.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 
 
 # Java-review-Gudie
