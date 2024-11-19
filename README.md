@@ -39,9 +39,4 @@
 | 24   | **Kafka**          | [:mag:点击直达](https://github.com/minfei-miffy/Java-mianshi-note/blob/master/Java核心面试知识集—Kafka面试题.md) |
 | 25   | **完整离线版**     | [:mag:点击直达](#完整离线版)                                 |
 
-# 完整离线版
-
-![](https://upload-images.jianshu.io/upload_images/11474088-47be2144bb66cd11.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-------
 
